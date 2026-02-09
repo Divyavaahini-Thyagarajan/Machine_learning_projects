@@ -52,13 +52,6 @@ Customer purchasing behavior analysis and exploratory insights.
 
 ---
 
-## 📌 Notes
-- Each project is organized in its own folder with a detailed README.
-- Notebooks are structured to reflect real-world ML workflows.
-- Large datasets are excluded or sampled where necessary.
-
----
-
 ## 📩 Contact
 🔗 LinkedIn: https://linkedin.com/in/divyavaahini-thyagarajan-684933315  
 ✍️ Medium: https://lnkd.in/d986mf8c  
